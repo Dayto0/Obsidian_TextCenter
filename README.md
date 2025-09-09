@@ -1,5 +1,5 @@
 # Center Your Text ENG
-![banner](https://github.com/Dayto0/Obsidian_TextCenter/banner.png)
+![banner](https://github.com/Dayto0/Obsidian_TextCenter/blob/main/main.png?raw=true)
 
 
 **CenterYourText** is a simple and convenient plugin for Obsidian that allows you to easily center text in your notes using the special syntax `&Text&`.
@@ -8,7 +8,7 @@
 
 * Centers any text enclosed between `&`.
 * Lightweight and fast, with no unnecessary dependencies.
-![Example of using](https://github.com/Dayto0/Obsidian_TextCenter/example.gif)
+![Example of using](https://github.com/Dayto0/Obsidian_TextCenter/blob/main/example.gif?raw=true)
 
 ---
 
@@ -31,13 +31,13 @@ To center text, simply enclose it between `&`:
 ---
 
 # Center Your Text RU
-![banner](https://github.com/Dayto0/Obsidian_TextCenter/banner.png)
+![banner]([https://github.com/Dayto0/Obsidian_TextCenter/banner.png](https://github.com/Dayto0/Obsidian_TextCenter/blob/main/main.png?raw=true))
 **CenterYourText** — это простой и удобный плагин для Obsidian, который позволяет легко центрировать текст в заметках с помощью специального синтаксиса `&Text&`.
 
 ## Возможности
 * Центрирует любой текст, заключённый между `&`.
 * Лёгкий и быстрый, без лишних зависимостей.
-![Пример использования](https://github.com/Dayto0/Obsidian_TextCenter/example.gif)
+![Пример использования](https://github.com/Dayto0/Obsidian_TextCenter/blob/main/example.gif?raw=true)
 ---
 ## Синтаксис
 Чтобы центрировать текст, просто заключите его между `&`:
