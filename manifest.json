@@ -1,0 +1,11 @@
+{
+  "id": "center-your-text",
+  "name": "Center Your Text",
+  "version": "1.0.0",
+  "minAppVersion": "1.15.0",
+  "description": "Allows centering text using &Text& syntax",
+  "author": "Dayto",
+  "authorUrl": "https://github.com/Dayto0",
+  "isDesktopOnly": false
+}
+
