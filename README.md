@@ -31,7 +31,7 @@ To center text, simply enclose it between `&`:
 ---
 
 # Center Your Text RU
-![banner]([https://github.com/Dayto0/Obsidian_TextCenter/banner.png](https://github.com/Dayto0/Obsidian_TextCenter/blob/main/main.png?raw=true))
+![banner](https://github.com/Dayto0/Obsidian_TextCenter/blob/main/main.png?raw=true)
 **CenterYourText** — это простой и удобный плагин для Obsidian, который позволяет легко центрировать текст в заметках с помощью специального синтаксиса `&Text&`.
 
 ## Возможности
